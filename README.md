@@ -1,0 +1,1 @@
+# kursinlamninggraph-type
